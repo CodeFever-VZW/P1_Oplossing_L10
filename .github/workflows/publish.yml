@@ -1,8 +1,8 @@
 name: Upload starter_zip
 
 env:
-  ZIP_NAME: startcodePxLx
-  FOLDER_TO_ZIP: ./startcode
+  ZIP_NAME: oplossingP1L10
+  FOLDER_TO_ZIP: ./oplossingen
   
 on:
   push:
